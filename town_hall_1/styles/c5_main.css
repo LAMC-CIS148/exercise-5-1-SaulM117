@@ -1,6 +1,10 @@
 /* custom property */
 :root {
 	--global-color-1: #800000;
+* {
+    margin: 0;
+    padding: 0;
+}	
 }
 html {
     background-color: #ffffff;
